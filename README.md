@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/44l7ic.jpg" width="200" style="border-radius:50%;border:3px solid #ffcc00;box-shadow:0 0 20px #ffcc00;">
+  <img src="https://king-xer-cdn.zone.id/files/cIBP2c.jpg" width="200" style="border-radius:50%;border:3px solid #ffcc00;box-shadow:0 0 20px #ffcc00;">
 </div>
 
 ## 🚀 About Me
