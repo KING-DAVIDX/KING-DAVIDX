@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ffcc00&center=true&width=700&height=80&lines=👋+WELCOME+TO+MY+PROFILE;⭐+KING+XER+⭐;**TECH+ENTHUSIAST**;**FULL-STACK+DEVELOPER**;**PASSIONATE+CREATOR**" alt="KING XER — typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=500&lines=+•★⃝KING+XER★⃝•;TECH+ENTHUSIAST;FULL-STACK+DEVELOPER;PASSIONATE+CREATOR" alt="KING XER — typing" />
 </p>
 
 <p align="center">•★ <b>KING XER</b> ★•</p>
